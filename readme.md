@@ -39,3 +39,12 @@ Estore is build using a bsic and beginner friendly tech stack compromised of:
 ![Estore Cart Interface](README_IMAGES/cart.png)
 
 ![Estore Admin Mode Interface](README_IMAGES/admin_mode.png)
+
+
+## Team Members
+**Hassan Munir https://github.com/mehmc**
+**Usman Ali**
+**Adeel Tajamul**
+**Wajid Ali**
+**Jahangir Maqsood**
+**Talha Shafeeq**
