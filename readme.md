@@ -1,4 +1,4 @@
-﻿# Ecommerce-Store (ESTORE)!
+﻿# Ecommerce-Store (ESTORE)
 
 Estore is an Online Store Management System created as a Semester Project to explore and understand the use of databases, nosql databases in particular.
 
