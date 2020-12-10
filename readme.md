@@ -46,5 +46,5 @@ Estore is build using a bsic and beginner friendly tech stack compromised of:
 - **Usman Ali**
 - **Adeel Tajamul**
 - **Wajid Ali https://github.com/wajidravian**
-- **Jahangir Maqsood**
+- **Jahangir Maqsood https://github.com/jhangirn**
 - **Talha Shafeeq**
