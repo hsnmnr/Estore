@@ -40,7 +40,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`user_id`, `first_name`, `last_name`, `password`) VALUES
-(1, 'Hassan Munir', 'Chaudhary', 'h3366sa2565');
+(1, 'Hassan Munir', 'Chaudhary', '12345678');
 
 -- --------------------------------------------------------
 
@@ -196,11 +196,11 @@ CREATE TABLE `userss` (
 --
 
 INSERT INTO `userss` (`user_id`, `first_name`, `last_name`, `password`, `wallet`, `address`) VALUES
-(1, 'Hassan Munir', 'Chaudhary', 'h3366sa2565', 493500, '1 R X N.S.T Sargodha'),
-(2, 'wajid', 'haneef', '12345678', 10000, 'lahore mt'),
-(3, 'adeel', 'tajamul', '12345678', 10000, 'lahore wt'),
-(4, 'jahangir', 'maqsood', '12345678', 10000, 'lahore mp'),
-(5, 'usman', 'Chaudhary', '12345678', 500000, 'lahore');
+(1, 'Hassan Munir', 'Chaudhary', '12345678', 999999, 'Sargodha'),
+(2, 'wajid', 'haneef', '12345678', 500, 'lahore mt'),
+(3, 'adeel', 'tajamul', '12345678', 100, 'lahore wt'),
+(4, 'jahangir', 'maqsood', '12345678', 50, 'lahore mp'),
+(5, 'usman', 'Chaudhary', '12345678', 25, 'lahore');
 
 --
 -- Indexes for dumped tables
