@@ -44,7 +44,7 @@ Estore is build using a bsic and beginner friendly tech stack compromised of:
 ## Team Members
 - **Hassan Munir https://github.com/mehmc**
 - **Chaudhary Usman Ali https://github.com/ch-usman-266**
-- **Adeel Tajamul**
+- **Adeel Tajamul** http://github.com/muhammadadeeltajamul
 - **Wajid Ali https://github.com/wajidravian**
 - **Jahangir Maqsood https://github.com/jhangirn**
 - **Talha Shafeeq**
